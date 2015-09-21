@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: AttackFX.png (512 x 512)
+# $TexturePacker:SmartUpdate:f2c14b47e092d333e480661cede70871:c39775abaaf87a981302eacc74e2e242:8793328499e12860410d165b1b10de66$
+#
+
+AttackFX_0001;0;256;256;256;0.5;0
+AttackFX_0002;256;256;256;256;0.5;0
+AttackFX_0003;0;0;256;256;0.5;0
+AttackFX_0004;256;0;256;256;0.5;0

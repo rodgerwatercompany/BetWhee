@@ -1,0 +1,1189 @@
+fileFormatVersion: 2
+guid: d4693f64b7dd7a64b8941a7feb08758b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: C02_Act-1_00000
+    21300002: C02_Act-1_00001
+    21300004: C02_Act-1_00002
+    21300006: C02_Act-1_00003
+    21300008: C02_Act-1_00004
+    21300010: C02_Act-1_00005
+    21300012: C02_Act-1_00006
+    21300014: C02_Act-1_00007
+    21300016: C02_Act-1_00008
+    21300018: C02_Act-1_00009
+    21300020: C02_Act-1_00010
+    21300022: C02_Act-1_00011
+    21300024: C02_Act-1_00012
+    21300026: C02_Act-1_00013
+    21300028: C02_Act-1_00014
+    21300030: C02_Act-1_00015
+    21300032: C02_Act-1_00016
+    21300034: C02_Act-1_00017
+    21300036: C02_Act-1_00018
+    21300038: C02_Act-1_00019
+    21300040: C02_Act-2_00000
+    21300042: C02_Act-2_00001
+    21300044: C02_Act-2_00002
+    21300046: C02_Act-2_00003
+    21300048: C02_Act-2_00004
+    21300050: C02_Act-2_00005
+    21300052: C02_Act-2_00006
+    21300054: C02_Act-2_00007
+    21300056: C02_Act-2_00008
+    21300058: C02_Act-2_00009
+    21300060: C02_Act-2_00010
+    21300062: C02_Act-2_00011
+    21300064: C02_Act-2_00012
+    21300066: C02_Act-2_00013
+    21300068: C02_Act-3_00000
+    21300070: C02_Act-3_00001
+    21300072: C02_Act-3_00002
+    21300074: C02_Act-3_00003
+    21300076: C02_Act-3_00004
+    21300078: C02_Act-3_00005
+    21300080: C02_Act-3_00006
+    21300082: C02_Act-3_00007
+    21300084: C02_Act-3_00008
+    21300086: C02_Act-3_00009
+    21300088: C02_Act-3_00010
+    21300090: C02_Act-3_00011
+    21300092: C02_Act-3_00012
+    21300094: C02_Act-3_00013
+    21300096: C02_Act-4_00000
+    21300098: C02_Act-4_00001
+    21300100: C02_Act-4_00002
+    21300102: C02_Act-4_00003
+    21300104: C02_Act-4_00004
+    21300106: C02_Act-4_00005
+    21300108: C02_Act-4_00006
+    21300110: C02_Act-4_00007
+    21300112: C02_Act-4_00008
+    21300114: C02_Act-4_00009
+    21300116: C02_Act-4_00010
+    21300118: C02_Act-4_00011
+    21300120: C02_Act-4_00012
+    21300122: C02_Act-4_00013
+    21300124: C02_Act-4_00014
+    21300126: C02_Act-4_00015
+    21300128: C02_Act-6a_1_00000
+    21300130: C02_Act-6a_1_00001
+    21300132: C02_Act-6a_1_00002
+    21300134: C02_Act-6a_1_00003
+    21300136: C02_Act-6a_1_00004
+    21300138: C02_Act-6a_1_00005
+    21300140: C02_Act-6a_1_00006
+    21300142: C02_Act-6a_1_00007
+    21300144: C02_Act-6a_1_00008
+    21300146: C02_Act-6a_1_00009
+    21300148: C02_Act-6a_1_00010
+    21300150: C02_Act-6a_1_00011
+    21300152: C02_Act-6a_1_00012
+    21300154: C02_Act-6a_1_00013
+    21300156: C02_Act-5_00000
+    21300158: C02_Act-5_00001
+    21300160: C02_Act-5_00002
+    21300162: C02_Act-5_00003
+    21300164: C02_Act-5_00004
+    21300166: C02_Act-5_00005
+    21300168: C02_Act-5_00006
+    21300170: C02_Act-5_00007
+    21300172: C02_Act-5_00008
+    21300174: C02_Act-5_00009
+    21300176: C02_Act-5_00010
+    21300178: C02_Act-5_00011
+    21300180: C02_Act-5_00012
+    21300182: C02_Act-5_00013
+    21300184: C02_Act-5_00014
+    21300186: C02_Act-5_00015
+    21300188: C01_Act1_00000
+    21300190: C01_Act1_00001
+    21300192: C01_Act1_00002
+    21300194: C01_Act1_00003
+    21300196: C01_Act1_00004
+    21300198: C01_Act1_00005
+    21300200: C01_Act1_00006
+    21300202: C01_Act1_00007
+    21300204: C01_Act1_00008
+    21300206: C01_Act1_00009
+    21300208: C01_Act1_00010
+    21300210: C01_Act1_00011
+    21300212: C01_Act1_00012
+    21300214: C01_Act1_00013
+    21300216: C01_Act1_00014
+    21300218: C01_Act1_00015
+    21300220: C01_Act1_00016
+    21300222: C01_Act1_00017
+    21300224: C01_Act1_00018
+    21300226: C01_Act1_00019
+    21300228: C01_Act2_00000
+    21300230: C01_Act2_00001
+    21300232: C01_Act2_00002
+    21300234: C01_Act2_00003
+    21300236: C01_Act2_00004
+    21300238: C01_Act2_00005
+    21300240: C01_Act2_00006
+    21300242: C01_Act2_00007
+    21300244: C01_Act2_00008
+    21300246: C01_Act2_00009
+    21300248: C01_Act2_00010
+    21300250: C01_Act2_00011
+    21300252: C01_Act2_00012
+    21300254: C01_Act2_00013
+    21300256: C01_Act3_00000
+    21300258: C01_Act3_00001
+    21300260: C01_Act3_00002
+    21300262: C01_Act3_00003
+    21300264: C01_Act3_00004
+    21300266: C01_Act3_00005
+    21300268: C01_Act3_00006
+    21300270: C01_Act3_00007
+    21300272: C01_Act3_00008
+    21300274: C01_Act3_00009
+    21300276: C01_Act3_00010
+    21300278: C01_Act3_00011
+    21300280: C01_Act3_00012
+    21300282: C01_Act3_00013
+    21300284: C01_Act4_00000
+    21300286: C01_Act4_00001
+    21300288: C01_Act4_00002
+    21300290: C01_Act4_00003
+    21300292: C01_Act4_00004
+    21300294: C01_Act4_00005
+    21300296: C01_Act4_00006
+    21300298: C01_Act4_00007
+    21300300: C01_Act4_00008
+    21300302: C01_Act4_00009
+    21300304: C01_Act4_00010
+    21300306: C01_Act4_00011
+    21300308: C01_Act4_00012
+    21300310: C01_Act4_00013
+    21300312: C01_Act4_00014
+    21300314: C01_Act4_00015
+    21300316: C01_Act5_00000
+    21300318: C01_Act5_00001
+    21300320: C01_Act5_00002
+    21300322: C01_Act5_00003
+    21300324: C01_Act5_00004
+    21300326: C01_Act5_00005
+    21300328: C01_Act5_00006
+    21300330: C01_Act5_00007
+    21300332: C01_Act5_00008
+    21300334: C01_Act5_00009
+    21300336: C01_Act5_00010
+    21300338: C01_Act5_00011
+    21300340: C01_Act5_00012
+    21300342: C01_Act5_00013
+    21300344: C01_Act5_00014
+    21300346: C01_Act5_00015
+    21300348: C01_Act6a_00000
+    21300350: C01_Act6a_00001
+    21300352: C01_Act6a_00002
+    21300354: C01_Act6a_00003
+    21300356: C01_Act6a_00004
+    21300358: C01_Act6a_00005
+    21300360: C01_Act6a_00006
+    21300362: C01_Act6a_00007
+    21300364: C01_Act6a_00008
+    21300366: C01_Act6a_00009
+    21300368: C01_Act6a_00010
+    21300370: C01_Act6a_00011
+    21300372: C01_Act6a_00012
+    21300374: C01_Act6a_00013
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 4
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 4
+    compressionQuality: 50
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: 13
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: C02_Act-1_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00001
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00002
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00003
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00004
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00005
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00006
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00007
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00008
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00009
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1802
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00011
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00012
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00013
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00014
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00015
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00016
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00017
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00018
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-1_00019
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1556
+        width: 198
+        height: 246
+      alignment: 9
+      pivot: {x: .514495909, y: .116674401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00001
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00002
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00003
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00004
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00005
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00006
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00007
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00008
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00009
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00010
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1349
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00012
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1142
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-2_00013
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1142
+        width: 174
+        height: 207
+      alignment: 9
+      pivot: {x: .652581871, y: .159455106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00000
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00001
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00002
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00003
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00004
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00005
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00006
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00007
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1146
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00009
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 939
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00010
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 939
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00011
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 939
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00012
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 939
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-3_00013
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 939
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: .64686662, y: .113111697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00000
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 911
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00001
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 911
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00002
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 911
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00003
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 911
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00005
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00006
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00007
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00008
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00009
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00010
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00011
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00012
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 680
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00014
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 449
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-4_00015
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 449
+        width: 225
+        height: 231
+      alignment: 9
+      pivot: {x: .659454823, y: .173951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00000
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00001
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00002
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00003
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00004
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00005
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00006
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 435
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00008
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00009
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00010
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00011
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00012
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00013
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00014
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-5_00015
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 190
+        width: 194
+        height: 245
+      alignment: 9
+      pivot: {x: .603563428, y: .137652099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00000
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 246
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00001
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 246
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00003
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00004
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00005
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00006
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00007
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00008
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00009
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00010
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00011
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00012
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C02_Act-6a_1_00013
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1
+        width: 138
+        height: 189
+      alignment: 9
+      pivot: {x: .609191895, y: .117693096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

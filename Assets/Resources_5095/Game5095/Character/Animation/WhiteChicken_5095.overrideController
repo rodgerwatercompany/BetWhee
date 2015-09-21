@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WhiteChicken_5095
+  m_Controller: {fileID: 9100000, guid: 8c51d25d83acd5b44bbf00c40a3f204b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8f95526c17e47f043b621ba0faf79da2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd0851c6dbd89f348acc8c9b560d0be3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5ebc821f12bba2c46908b23a6c62359a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4a7a5d8f2599b2a45bf83dda3171f9e5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7da5f6b1b8b766e498a61895b5af5e18, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ce31b862daf26f04e83d5c8be56d6de0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 731e639b739429e449afa59571ac4947, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 898314d1c2e67244ab993d59ae6b809c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fb6dca8e0a1fa97429e009245366c56f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7ca51c3afe9a52546b4d1e74479d2440, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2b623a4ac777d2841b8e181c3d7f6169, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 174d7554d215de54db44d4baf039187c, type: 2}

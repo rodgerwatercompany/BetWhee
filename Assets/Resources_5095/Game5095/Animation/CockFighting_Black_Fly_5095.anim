@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CockFighting_Black_Fly_5095
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -1011.59998, y: 350.838013, z: 0}
+        inSlope: {x: 3664.7998, y: -1097.51404, z: 0}
+        outSlope: {x: 900.626831, y: -139.604965, z: 0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 210, y: -15, z: 0}
+        inSlope: {x: 8890.84473, y: -3088.32397, z: 0}
+        outSlope: {x: 7.5, y: -2.78571439, z: 0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 245, y: -28, z: 0}
+        inSlope: {x: 7.5, y: -2.78571439, z: 0}
+        outSlope: {x: 7.50000048, y: -2.78571439, z: 0}
+        tangentMode: 795672612
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .30546999, y: .30546999, z: .30546999}
+        inSlope: {x: 2.38512945, y: 2.46206903, z: 2.40201855}
+        outSlope: {x: 2.38512945, y: 2.46206903, z: 2.40201855}
+        tangentMode: 1
+      - time: .333333343
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .813970625, y: .833157718, z: .788900614}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: 5
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1093664768
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1011.59998
+        inSlope: 3664.7998
+        outSlope: 900.626831
+        tangentMode: 1
+      - time: .333333343
+        value: 210
+        inSlope: 8890.84473
+        outSlope: 7.5
+        tangentMode: 17
+      - time: 5
+        value: 245
+        inSlope: 7.5
+        outSlope: 7.50000048
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 350.838013
+        inSlope: -1097.51404
+        outSlope: -139.604965
+        tangentMode: 1
+      - time: .333333343
+        value: -15
+        inSlope: -3088.32397
+        outSlope: -2.78571439
+        tangentMode: 17
+      - time: 5
+        value: -28
+        inSlope: -2.78571439
+        outSlope: -2.78571439
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .30546999
+        inSlope: 2.38512945
+        outSlope: 2.38512945
+        tangentMode: 0
+      - time: .333333343
+        value: 1
+        inSlope: .813970625
+        outSlope: -0
+        tangentMode: 17
+      - time: 5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .30546999
+        inSlope: 2.46206903
+        outSlope: 2.46206903
+        tangentMode: 0
+      - time: .333333343
+        value: 1
+        inSlope: .833157718
+        outSlope: -0
+        tangentMode: 17
+      - time: 5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .30546999
+        inSlope: 2.40201855
+        outSlope: 2.40201855
+        tangentMode: 0
+      - time: .333333343
+        value: 1
+        inSlope: .788900614
+        outSlope: -0
+        tangentMode: 17
+      - time: 5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: .333333343
+    functionName: Finish
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
